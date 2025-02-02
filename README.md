@@ -12,7 +12,8 @@
 ## 📑 Resultado:
 
 Após trabalho foi disponibilizado para entrega:
-[Modelo Dimencional](Modelo dimensional Tableas Star Schema.png).
+[Modelo Dimencional](Modelo_dimensional_Tableas_Star_Schema.png).
+[Projeto .pbix do PowerBI](Modelagem_Transformação_com_DAX.pbix).
 <hr/>
 
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
